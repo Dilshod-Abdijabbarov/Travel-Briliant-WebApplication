@@ -338,6 +338,11 @@
     }
 }
 
+btnhover:hover {
+    background-color: #86B817;
+    color: white;
+}
+
 .testimonial-carousel .owl-item .testimonial-item,
 .testimonial-carousel .owl-item.center .testimonial-item * {
     transition: .5s;
